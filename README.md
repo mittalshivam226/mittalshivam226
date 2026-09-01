@@ -177,6 +177,12 @@ LIVE DEMO     : [→ demo link]
 
 ## 📡 `[ ENGINEERING LOG ]`
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mittalshivam226&theme=dark&hide_border=true&bg_color=0d1117&color=00FF9C&line=00FF9C&point=FFFFFF" width="100%" />
+</div>
+
+<br/>
+
 ```diff
 [BOOT]    INFO    Loaded core modules: DSA, OOP, DBMS, Computer Networks
 [09:14]   INFO    Started deep dive into distributed systems fundamentals
@@ -225,6 +231,11 @@ LIVE DEMO     : [→ demo link]
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalshivam226&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" width="45%" />
+
+<br/>
+<br/>
+
 `C++` `Data Structures & Algorithms` `Operating Systems` `Computer Networks`
 `Databases` `System Design` `Distributed Systems` `Backend Engineering` `AI / ML`
 
@@ -261,7 +272,7 @@ Have an interesting problem? Want to collaborate? Building something ambitious?
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/mittalshivam226)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shivam-mittal-2199982a3/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mittalshivam226@gmail.com)
 
 <br/>
 
