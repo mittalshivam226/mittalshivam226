@@ -1,7 +1,8 @@
 <!-- HEADER / HERO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=SYSTEM+INITIALIZING...;LOADING+MODULE%3A+SHIVAM.EXE;COMPILING+EXPERIENCE...;STATUS%3A+ONLINE" alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=150&lines=SYSTEM+INITIALIZING...;LOADING+MODULE%3A+SHIVAM.EXE;COMPILING+EXPERIENCE...;STATUS%3A+ONLINE" alt="boot sequence" />
+
 
 ```text
  ███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗
@@ -259,9 +260,8 @@ Have an interesting problem? Want to collaborate? Building something ambitious?
 **INITIATE CONNECTION →**
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/mittalshivam226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shivam-mittal-2199982a3/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 <br/>
 
