@@ -1,10 +1,9 @@
+<!-- HEADER / HERO -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=SYSTEM+INITIALIZING...;LOADING+MODULE%3A+SHIVAM.EXE;COMPILING+EXPERIENCE...;STATUS%3A+ONLINE" alt="boot sequence" />
 
-</div>
-
-```
+```text
  ███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗
  ██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║
  ███████╗███████║██║██║   ██║███████║██╔████╔██║
@@ -13,9 +12,7 @@
  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-<div align="center">
-
-```
+```text
 [████████████████████████████████████████] 100%
 
   STATUS : ONLINE
@@ -35,7 +32,7 @@
 
 <br/>
 
-## `$ whoami`
+## 👤 `$ whoami`
 
 ```yaml
 identity:     Final-year CSE undergrad @ SRM Institute of Science and Technology
@@ -47,49 +44,61 @@ principle:    A feature that isn't understood end-to-end is a bug waiting to hap
 
 <br/>
 
-## 🛰️ CURRENT MISSION
+## 🛰️ `[ CURRENT MISSION ]`
 
-<div align="center">
-
-| CHANNEL | STATUS |
-|---|---|
-| 🧠 `LEARNING`   | Distributed systems & system design fundamentals |
-| 🏗️ `BUILDING`   | Final Major Project — evaluating GNN-based fraud detection, behavioral proctoring & multi-agent fact-checking |
-| 🔭 `EXPLORING`  | Applied ML for geospatial analytics |
-| 🎯 `OBJECTIVE`  | Land an SDE / engineering role and ship a production-grade FMP |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔭 Currently Exploring & Learning</h3>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A3B8CC&center=true&vCenter=true&width=350&lines=Distributed+systems+fundamentals;Applied+ML+for+geospatial+analytics" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ Currently Building</h3>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF9C&center=true&vCenter=true&width=350&lines=Final+Major+Project;(GNN+Fraud+Detection+%26+Multi-agent)" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## ⚙️ TECH ARSENAL
+## ⚙️ `[ TECH ARSENAL ]`
 
 <div align="center">
 
-**LANGUAGES**
+**[ LANGUAGES ]**<br/>
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF9C)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
 
-**FRONTEND**
+<br/>
+
+**[ FRONTEND ]**<br/>
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**BACKEND**
+<br/>
+
+**[ BACKEND & DATABASES ]**<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-**DATABASES**
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Firestore](https://img.shields.io/badge/Firestore-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-**TOOLS**
+<br/>
+
+**[ TOOLS & INFRASTRUCTURE ]**<br/>
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Turborepo](https://img.shields.io/badge/Turborepo-0d1117?style=for-the-badge&logo=turborepo&logoColor=EF4444)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-0d1117?style=for-the-badge&logo=googleearth&logoColor=4285F4)
 
-**ENGINEERING / CS FUNDAMENTALS**
+<br/>
+
+**[ ENGINEERING FUNDAMENTALS ]**<br/>
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 ![OOP](https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)
 ![Networks](https://img.shields.io/badge/Computer_Networks-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
@@ -99,14 +108,14 @@ principle:    A feature that isn't understood end-to-end is a bug waiting to hap
 
 <br/>
 
-## 🎯 MISSION CONTROL
+## 🎯 `[ MISSION CONTROL ]`
 
 <details open>
 <summary><b>▸ MISSION 01 — URBAN HEAT INTELLIGENCE SYSTEM</b></summary>
 
 <br/>
 
-```
+```text
 OBJECTIVE     : Predict and visualize urban heat-island intensity from geospatial data
 TECH STACK    : Python, XGBoost, Random Forest, Google Earth Engine, FastAPI, React
 ARCHITECTURE  : Satellite/geo data pipeline → feature engineering → ML inference API → React dashboard
@@ -126,7 +135,7 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-```
+```text
 OBJECTIVE     : Multi-portal platform connecting stakeholders across the farming supply chain
 TECH STACK    : Next.js (5 portals), Turborepo, Firebase Admin SDK, Firestore, JWT
 ARCHITECTURE  : Turborepo monorepo housing 5 role-based Next.js portals, backed by 11 JWT-secured
@@ -148,7 +157,7 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-```
+```text
 OBJECTIVE     : Full-stack marketplace platform
 TECH STACK    : Node.js, MySQL
 ARCHITECTURE  : Node.js backend with a MySQL relational core, structured around marketplace
@@ -165,7 +174,7 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-## 📡 ENGINEERING LOG
+## 📡 `[ ENGINEERING LOG ]`
 
 ```diff
 [BOOT]    INFO    Loaded core modules: DSA, OOP, DBMS, Computer Networks
@@ -182,9 +191,9 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-## 🧭 ENGINEERING PROTOCOL
+## 🧭 `[ ENGINEERING PROTOCOL ]`
 
-```
+```text
 01. UNDERSTAND   — restate the problem before touching code
 02. CHALLENGE    — question assumptions baked into the request
 03. CONSTRAIN    — identify what's fixed vs. negotiable (time, scale, data)
@@ -197,7 +206,7 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-## 🧪 EXPERIMENT LAB
+## 🧪 `[ EXPERIMENT LAB ]`
 
 | EXPERIMENT | DOMAIN | STATUS |
 |---|---|---|
@@ -211,7 +220,7 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-## 📚 KNOWLEDGE BASE
+## 📚 `[ KNOWLEDGE BASE ]`
 
 <div align="center">
 
@@ -224,36 +233,24 @@ LIVE DEMO     : [→ demo link]
 
 <br/>
 
-## 📊 GITHUB SYSTEM METRICS
+## 🔧 `[ CURRENTLY BUILDING ]`
+
+```yaml
+> project        : [FMP — name TBD]
+> stage          : idea validation / scoping
+> next milestone : finalize direction between GNN fraud detection, behavioral proctoring,
+                   and multi-agent fact-checking
+```
+
+<br/>
+
+## 📡 `[ TRANSMISSION CHANNEL ]`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mittalshivam226&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalshivam226&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" width="42%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mittalshivam226&theme=dark&hide_border=true&background=0d1117&ring=00FF9C&fire=9C5CFF&currStreakLabel=00FF9C" width="60%" />
-
-<!-- Contribution snake — requires a one-time GitHub Action setup, see instructions below -->
-<img src="https://raw.githubusercontent.com/mittalshivam226/mittalshivam226/output/github-contribution-grid-snake-dark.svg" width="80%" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br/>
-
-## 🔧 CURRENTLY BUILDING
-
-```
-> project    : [FMP — name TBD]
-> stage      : idea validation / scoping
-> next milestone : finalize direction between GNN fraud detection, behavioral proctoring,
-                    and multi-agent fact-checking
-```
-
-<sub>↳ Update this block directly as the project progresses — it's designed to be a quick manual edit.</sub>
-
-<br/>
-
-## 📡 TRANSMISSION CHANNEL
 
 <div align="center">
 
@@ -268,11 +265,6 @@ Have an interesting problem? Want to collaborate? Building something ambitious?
 
 <br/>
 
-```
-$ shutdown
-
-> ERROR: Developer still building.
-> Process cannot be terminated.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=00FF9C&center=true&vCenter=true&width=400&lines=>+SYSTEM_SHUTDOWN+UNAVAILABLE;>+DEVELOPER_IS_STILL_BUILDING..." />
 
 </div>
