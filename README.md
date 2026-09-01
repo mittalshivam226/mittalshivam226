@@ -15,12 +15,12 @@
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        OPERATOR : SHIVAM MITTAL                    ║
-║                ROLE   : Final-year CSE @ SRM IST                   ║
-║                FOCUS  : Full-Stack · ML Systems · Backend Arch      ║
-║  PRINCIPLE : A feature not understood end-to-end is a bug waiting  ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════════╗
+║  OPERATOR  : SHIVAM MITTAL                                                          ║
+║  ROLE      : Final-year CSE @ SRM IST                                               ║
+║  FOCUS     : Full-Stack | ML Systems | Backend Architecture                         ║
+║  PRINCIPLE : A feature not understood end-to-end is a bug waiting to happen         ║
+╚═════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -237,7 +237,7 @@ PID  PROCESS              [█████████████████�
 ║  Want to collaborate?                     ║
 ║  Building something ambitious?            ║
 ║                                           ║
-║         INITIATE CONNECTION →             ║
+║         INITIATE CONNECTION >>            ║
 ╚═══════════════════════════════════════════╝
 ```
 
@@ -247,7 +247,7 @@ PID  PROCESS              [█████████████████�
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=9C5CFF&center=true&vCenter=true&width=500&lines=%24+shutdown+--graceful;ERROR%3A+cannot+stop+—+developer+still+building;Process+%5BSHIVAM.EXE%5D+cannot+be+terminated." alt="Shutdown SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=9C5CFF&center=true&vCenter=true&width=520&lines=%24+shutdown+--graceful;ERROR%3A+cannot+stop+--+developer+still+building;Process+SHIVAM.EXE+cannot+be+terminated." alt="Shutdown SVG" />
 
 </div>
 
