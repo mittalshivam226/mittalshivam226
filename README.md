@@ -1,209 +1,108 @@
-<!-- 01 - SYSTEM BOOT / HERO -->
+<!-- HEADER / HERO -->
 <div align="center">
-  
-<pre>
-  ██████  ██░ ██  ██▓ ██▒   █▓ ▄▄▄       ███▄ ▄███▓
-▒██    ▒ ▓██░ ██▒▓██▒▓██░   █▒▒████▄    ▓██▒▀█▀ ██▒
-░ ▓██▄   ▒██▀▀██░▒██▒ ▓██  █▒░▒██  ▀█▄  ▓██    ▓██░
-  ▒   ██▒░▓█ ░██ ░██░  ▒██ █░░░██▄▄▄▄██ ▒██    ▒██ 
-▒██████▒▒░▓█▒░██▓░██░   ▒▀█░   ▓█   ▓██▒▒██▒   ░██▒
-▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒░▓     ░ ▐░   ▒▒   ▓▒█░░ ▒░   ░  ░
-░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░   ░ ░░    ▒   ▒▒ ░░  ░      ░
-░  ░  ░   ░  ░░ ░ ▒ ░     ░░    ░   ▒   ░      ░   
-      ░   ░  ░  ░ ░        ░        ░  ░       ░   
-                          ░                        
-</pre>
 
-```text
-SYSTEM INITIALIZING...
-[████████████████████] 100%
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED.;WELCOME+TO+SHIVAM'S+TERMINAL;BUILDING+THE+FUTURE" alt="Typing SVG" />
 
-STATUS: ONLINE
-MODE: BUILDING
-```
-*Engineering systems, architectures, and the relentless pursuit of scale.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mittalshivam226&label=SYSTEM+CONNECTIONS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+</p>
+
 </div>
 
 ---
 
-<!-- 02 - WHOAMI -->
-## <code>&gt; whoami</code>
-
-```text
-$ whoami
-> shivam
-> Role: Software Engineer
-> Base: [Your City/Country]
-> Focus: Distributed Systems / Backend Architecture / Performance
-```
-
-I am a Software Engineer who treats code as architecture. I enjoy building resilient backend systems, optimizing algorithms for performance, and diving deep into how systems operate under the hood. I approach problems methodically, believing that understanding the constraints is half the solution.
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A3B8CC&center=true&vCenter=true&width=400&lines=>+whoami;>+Role:+Software+Engineer;>+Focus:+Backend+%26+Systems;>+Status:+Online" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=400&lines=>+Currently:+Learning;>+Target:+Scale+%26+Performance;>+Action:+Writing+Code;>+Objective:+Impact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- 03 - CURRENT MISSION -->
-## <code>&gt; cat current_mission.log</code>
-
-| `MISSION` | `STATUS` | `TARGET` |
-| :--- | :--- | :--- |
-| **Learning** | `[ RUNNING ]` | Designing Data-Intensive Applications |
-| **Building** | `[ ACTIVE  ]` | High-throughput distributed task queue in Go |
-| **Exploring**| `[ ONGOING ]` | eBPF for networking observability |
-| **Goal**     | `[ PENDING ]` | Contribute to a major CNCF open-source project |
-
----
-
-<!-- 04 - TECH ARSENAL -->
-## <code>&gt; ./load_tech_arsenal.sh</code>
-
-<details open>
-<summary><b>[ SYSTEM.ARSENAL ]</b></summary>
-<br>
-
-**[ LANGUAGES ]**
-<br>
-`C++` `Go` `Python` `TypeScript` `SQL`
-
-**[ BACKEND & DATABASES ]**
-<br>
-`Node.js` `PostgreSQL` `Redis` `MongoDB` `Kafka` `gRPC`
-
-**[ INFRASTRUCTURE & TOOLS ]**
-<br>
-`Docker` `Kubernetes` `Linux` `Git` `AWS` `Terraform`
-
-**[ CS FUNDAMENTALS ]**
-<br>
-`Data Structures` `Algorithms` `System Design` `Operating Systems` `Networks`
-
-</details>
-
----
-
-<!-- 05 - MISSION CONTROL / PROJECTS -->
-## <code>&gt; ls -l /missions/active</code>
-
-### `MISSION 01: [Project Name]`
-> **Objective:** Build a scalable, real-time event processing engine.
-* **Tech Stack:** `Go` `Kafka` `Redis` `PostgreSQL`
-* **Architecture:** Microservices-based event-driven architecture with distributed caching.
-* **Key Challenge:** Handling event spikes without dropping messages or overwhelming the database.
-* **Solution:** Implemented a token-bucket rate limiter and a Redis-backed buffering layer before asynchronous batch inserts into PostgreSQL.
-* **Impact:** Processed 10k+ events/sec with <50ms latency.
-* **Link:** [`[SOURCE CODE]`](#) | [`[LIVE DEMO]`](#)
-
-### `MISSION 02: [Project Name]`
-> **Objective:** High-performance key-value store built from scratch.
-* **Tech Stack:** `C++`
-* **Architecture:** Log-Structured Merge-Tree (LSM-Tree) based storage engine.
-* **Key Challenge:** Optimizing disk I/O for read-heavy workloads.
-* **Solution:** Built custom Bloom filters and block caching to reduce disk reads by 70%.
-* **Impact:** Achieved 50k+ read ops/sec on standard SSDs.
-* **Link:** [`[SOURCE CODE]`](#)
-
----
-
-<!-- 06 - ENGINEERING LOG -->
-## <code>&gt; tail -n 5 /var/log/engineering.log</code>
-
-```log
-[13:02] INFO    Started learning about Raft consensus algorithm
-[19:42] WARN    Memory leak detected in Go worker pool experiment
-[21:14] DEBUG   Found root cause: unclosed goroutines capturing loop variables
-[21:30] SUCCESS Fixed memory leak, CPU usage stabilized
-[09:00] INFO    Read 'The Tail at Scale' (Jeff Dean) - fascinating insights
-```
-
----
-
-<!-- 07 - ENGINEERING PROTOCOL -->
-## <code>&gt; cat /docs/engineering_protocol.md</code>
-
-**STANDARD OPERATING PROCEDURE:**
-
-1. **`[ UNDERSTAND ]`** → Define the exact problem. Ask "why" three times.
-2. **`[ CHALLENGE  ]`** → Question the assumptions. Do we even need to build this?
-3. **`[ CONSTRAINTS]`** → Identify memory, CPU, network, and time limits.
-4. **`[ DESIGN     ]`** → Draft the architecture. Write RFCs before writing code.
-5. **`[ IMPLEMENT  ]`** → Write clean, testable, and robust code.
-6. **`[ MEASURE    ]`** → Instrument everything. You can't improve what you don't measure.
-7. **`[ OPTIMIZE   ]`** → Profile the hot paths. Optimize only when metrics justify it.
-8. **`[ DOCUMENT   ]`** → Write down the "why", not just the "how".
-
----
-
-<!-- 08 - EXPERIMENT LAB -->
-## <code>&gt; ./lab_status.sh</code>
-
-| EXPERIMENT | DOMAIN | STATUS | NOTES |
-| :--- | :--- | :--- | :--- |
-| **Custom TCP Stack** | Networking | `[ COMPLETED ]` | Implemented basic SYN/ACK handshake in C. |
-| **Raft Implementation** | Distributed Systems | `[ RUNNING ]` | Debugging leader election race conditions. |
-| **Lock-free Queue** | Concurrency | `[ FAILED ]` | ABA problem. Learned to use hazard pointers. |
-| **Thread Pool C++** | Performance | `[ PLANNED ]` | Next weekend project. |
-
----
-
-<!-- 09 - KNOWLEDGE BASE -->
-## <code>&gt; du -sh /knowledge/*</code>
-
-```text
-████████████████████ 100%  C++ / Go
-██████████████████░░  90%  Data Structures & Algorithms
-████████████████░░░░  80%  System Design / Architecture
-██████████████░░░░░░  70%  Operating Systems
-████████████░░░░░░░░  60%  Databases (Internals)
-██████████░░░░░░░░░░  50%  Computer Networks
-██████░░░░░░░░░░░░░░  30%  AI / ML
-```
-*Note: Progress bars represent current learning focus, not objective mastery.*
-
----
-
-<!-- 10 - GITHUB SYSTEM METRICS -->
-## <code>&gt; htop --user shivam --metrics</code>
+<h2 align="center">🌐 <code>[ 01: TECH_ARSENAL ]</code></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=A3B8CC&icon_color=00FFCC" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=A3B8CC" alt="Top Languages" width="48%">
+  <p><b>[ CORE & LANGUAGES ]</b></p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   
-  <br><br>
+  <p><b>[ BACKEND & DATABASES ]</b></p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   
-  <!-- Requires GitHub Action setup -->
+  <p><b>[ INFRASTRUCTURE & CLOUD ]</b></p>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</div>
+
+<br />
+
+---
+
+<h2 align="center">🚀 <code>[ 02: SYSTEM_METRICS ]</code></h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mittalshivam226&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=A3B8CC&icon_color=00FFCC" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mittalshivam226&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" height="192px"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mittalshivam226&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF" width="80%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalshivam226&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=A3B8CC" width="45%" />
+  
+  <!-- Contribution Snake (requires GitHub action) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mittalshivam226/mittalshivam226/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mittalshivam226/mittalshivam226/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mittalshivam226/mittalshivam226/output/github-contribution-grid-snake.svg" width="45%">
   </picture>
 </div>
 
 ---
 
-<!-- 11 - CURRENTLY BUILDING -->
-## <code>&gt; top -o cpu</code>
+<h2 align="center">📡 <code>[ 03: TRANSMISSION_LOG ]</code></h2>
 
-```text
-PID    COMMAND      %CPU  %MEM  STATE   TIME      NOTES
-1337   [Project X]  99.9  14.2  RUNNING 10:24:00  Implementing gRPC streaming API
-```
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
----
+<br />
 
-<!-- 12 - TRANSMISSION / CONTACT -->
-## <code>&gt; ./initiate_contact.sh</code>
+<div align="center">
+  <a href="https://github.com/mittalshivam226">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-**TRANSMISSION CHANNEL**
+<br />
 
-Have an interesting problem? Want to collaborate? Building something ambitious?
-
-`INITIATE CONNECTION →`
-
-* [`[ GITHUB ]`](https://github.com/YOUR_GITHUB_USERNAME)
-* [`[ LINKEDIN ]`](https://linkedin.com/in/YOUR_LINKEDIN)
-* [`[ EMAIL ]`](mailto:YOUR_EMAIL@example.com)
-* [`[ PORTFOLIO ]`](https://your-portfolio.com)
-
-```text
-$ shutdown
-> ERROR: Developer still building.
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=00FFCC&center=true&vCenter=true&width=400&lines=>+SYSTEM_SHUTDOWN+UNAVAILABLE;>+DEVELOPER_IS_STILL_BUILDING..." />
+</div>
