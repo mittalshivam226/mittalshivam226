@@ -231,11 +231,6 @@ LIVE DEMO     : [→ demo link]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalshivam226&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" width="45%" />
-
-<br/>
-<br/>
-
 `C++` `Data Structures & Algorithms` `Operating Systems` `Computer Networks`
 `Databases` `System Design` `Distributed Systems` `Backend Engineering` `AI / ML`
 
