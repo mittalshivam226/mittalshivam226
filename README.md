@@ -170,7 +170,7 @@
 ## `> htop --protocol ENGINEERING`
 
 ```
-PID  PROCESS              [████████████████████] PROFICIENCY
+PID  PROCESS              [████████████████████] FOCUS
 001  C++ / DSA            [████████████████░░░░] 80%  — competitive edge
 002  System Design        [███████████████░░░░░] 75%  — always designing before coding
 003  Backend Engineering  [████████████████░░░░] 80%  — APIs, RBAC, auth flows
