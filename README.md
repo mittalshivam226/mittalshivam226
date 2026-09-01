@@ -217,12 +217,8 @@ PID  PROCESS              [█████████████████�
 
 </div>
 
----
-
-## `> iostat --commits 31d`
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mittalshivam226&theme=radical&bg_color=0d1117&color=00FFCC&line=9C5CFF&point=FF00FF&area=true&hide_border=true" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 </div>
 
 ---
