@@ -1,240 +1,254 @@
-<!-- HEADER / HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,50:9C5CFF,100:FF00FF&height=220&section=header&text=SHIVAM.EXE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEM+ONLINE+%7C+BUILDING+THE+FUTURE&descAlignY=62&descSize=18" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFCC;FF00FF;FFE600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=SYSTEM+INITIALIZING...;LOADING+MODULE%3A+SHIVAM.EXE;ENGINEERING+AT+SCALE;STATUS%3A+ONLINE" alt="boot sequence" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%5BBOOT%5D+Initializing+engineering+runtime...;%5BLOAD%5D+Mounting+skills+and+projects...;%5BREADY%5D+Full-stack+%2B+ML+systems+online.;%5BWARN%5D+Side+effects+may+include+over-engineering." alt="Typing SVG" />
 
-```text
- ███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗
- ██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║
- ███████╗███████║██║██║   ██║███████║██╔████╔██║
- ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║
- ███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mittalshivam226&style=for-the-badge&color=9C5CFF&label=PROFILE+VIEWS)](https://github.com/mittalshivam226)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/mittalshivam226?style=for-the-badge&color=00FFCC&labelColor=0d1117&label=FOLLOWERS)](https://github.com/mittalshivam226)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/mittalshivam226?style=for-the-badge&color=FF00FF&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/mittalshivam226)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        OPERATOR : SHIVAM MITTAL                    ║
+║                ROLE   : Final-year CSE @ SRM IST                   ║
+║                FOCUS  : Full-Stack · ML Systems · Backend Arch      ║
+║  PRINCIPLE : A feature not understood end-to-end is a bug waiting  ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=mittalshivam226&style=for-the-badge&color=FF00FF&label=TRANSMISSIONS+RECEIVED" alt="Profile Views" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFCC?style=for-the-badge&labelColor=0d1117" alt="Status" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-FFE600?style=for-the-badge&labelColor=0d1117" alt="Mode" />
+<div align="center">
 
-<br/>
-<br/>
-
-*"I don't just ship features — I reason about the systems underneath them."*
+### `〔 TRANSMISSION ` — [GITHUB](https://github.com/mittalshivam226) · [LINKEDIN](https://www.linkedin.com/in/shivam-mittal-2199982a3/) · [EMAIL](mailto:mittalshivam226@gmail.com) `〕`
 
 </div>
 
-<br/>
+---
 
-## 👤 `$ whoami`
+## `> cat /proc/current_mission`
 
-```yaml
-identity:     Final-year CSE undergrad @ SRM Institute of Science and Technology
-builds:       Full-stack products, ML/geospatial pipelines, distributed-leaning side systems
-approach:     Break the problem down before touching a keyboard — architecture before syntax
-interests:    Systems design, applied ML, backend engineering, developer tooling
-principle:    A feature that isn't understood end-to-end is a bug waiting to happen
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🟢  LEARNING   │  Distributed systems & system design              │
+│  🟡  BUILDING   │  FMP — GNN fraud detection / multi-agent systems  │
+│  🔵  EXPLORING  │  Applied ML for geospatial analytics              │
+│  🔴  OBJECTIVE  │  SDE role + ship a production-grade FMP           │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+</div>
 
-## 🛰️ `[ CURRENT MISSION ]`
+---
+
+## `> ./arsenal --list-all`
 
 <div align="center">
 
-| CHANNEL | STATUS |
-|---|---|
-| 🧠 `LEARNING`   | Distributed systems & system design fundamentals |
-| 🏗️ `BUILDING`   | Final Major Project — evaluating GNN-based fraud detection, behavioral proctoring & multi-agent fact-checking |
-| 🔭 `EXPLORING`  | Applied ML for geospatial analytics |
-| 🎯 `OBJECTIVE`  | Land an SDE / engineering role and ship a production-grade FMP |
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/><sub><b>TensorFlow</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+---
 
-## ⚙️ `[ TECH ARSENAL ]`
-
-<div align="center">
-
-**[ LANGUAGES ]**<br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<br/>
-
-**[ FRONTEND ]**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-<br/>
-
-**[ BACKEND & DATABASES ]**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-<br/>
-
-**[ TOOLS & INFRASTRUCTURE ]**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🎯 `[ MISSION CONTROL ]`
+## `> ls /missions --detailed`
 
 <details open>
-<summary><b>▸ MISSION 01 — URBAN HEAT INTELLIGENCE SYSTEM</b></summary>
-
-> **Objective:** Predict and visualize urban heat-island intensity from geospatial data.
->
-> 🚀 **Tech Stack:** Python, XGBoost, Random Forest, Google Earth Engine, FastAPI, React<br/>
-> 🏗 **Architecture:** Satellite/geo data pipeline → feature engineering → ML inference API → React dashboard<br/>
-> ⚡ **Challenge:** Turning noisy, large-scale geospatial imagery into reliable, model-ready features.<br/>
-> 💡 **Solution:** Built an ML pipeline around Google Earth Engine data extraction, feeding tuned XGBoost/Random Forest models exposed via a FastAPI inference layer.<br/>
-> 🏆 **Result:** End-to-end geospatial analytics, from raw satellite data to an interactive visualization layer.<br/>
-> 
-> 🔗 [`[SOURCE CODE]`](#) | 🔗 [`[LIVE DEMO]`](#)
-
-</details>
-
-<details>
-<summary><b>▸ MISSION 02 — FARMHITH</b></summary>
-
-> **Objective:** Multi-portal platform connecting stakeholders across the farming supply chain.
->
-> 🚀 **Tech Stack:** Next.js (5 portals), Turborepo, Firebase Admin SDK, Firestore, JWT<br/>
-> 🏗 **Architecture:** Turborepo monorepo housing 5 role-based Next.js portals, backed by 11 JWT-secured REST APIs with Firestore-driven RBAC.<br/>
-> ⚡ **Challenge:** Coordinating role-based access and shared logic across five distinct portals without duplicating code or leaking permissions.<br/>
-> 💡 **Solution:** Centralized RBAC in Firestore, shared packages via Turborepo, and a consistent JWT-authenticated API layer across all endpoints.<br/>
-> 🏆 **Result:** A real multi-tenant system representing complex architectural coordination.<br/>
-> 
-> 🔗 [`[SOURCE CODE]`](#) | 🔗 [`[LIVE DEMO]`](#)
-
-</details>
-
-<details>
-<summary><b>▸ MISSION 03 — REEDU</b></summary>
-
-> **Objective:** Full-stack marketplace platform.
->
-> 🚀 **Tech Stack:** Node.js, MySQL<br/>
-> 🏗 **Architecture:** Node.js backend with a MySQL relational core, structured around marketplace listing/transaction flows.<br/>
-> ⚡ **Challenge:** Keeping query performance acceptable as marketplace data and joins grew.<br/>
-> 💡 **Solution:** Iterated on SQL query structure and indexing to bring query performance to an acceptable range.<br/>
-> 🏆 **Result:** Full-stack marketplace shipped end-to-end, backend to database.<br/>
-> 
-> 🔗 [`[SOURCE CODE]`](#) | 🔗 [`[LIVE DEMO]`](#)
-
+<summary>🛸 &nbsp;<b>MISSION 01 — URBAN HEAT INTELLIGENCE SYSTEM</b></summary>
+<br/>
+<table>
+  <tr><td>🎯 <b>Objective</b></td><td>Predict & visualize urban heat-island intensity from satellite imagery</td></tr>
+  <tr><td>⚡ <b>Stack</b></td><td><code>Python</code> <code>XGBoost</code> <code>Random Forest</code> <code>Google Earth Engine</code> <code>FastAPI</code> <code>React</code></td></tr>
+  <tr><td>🏗️ <b>Architecture</b></td><td>GEE satellite pipeline → Feature engineering → ML inference API → React viz dashboard</td></tr>
+  <tr><td>🔥 <b>Challenge</b></td><td>Transforming noisy large-scale geospatial tile data into reliable ML-ready features</td></tr>
+  <tr><td>💡 <b>Solution</b></td><td>Batched GEE feature extraction feeding a tuned XGBoost/RF stack via FastAPI</td></tr>
+  <tr><td>🏆 <b>Result</b></td><td>End-to-end geospatial ML system — raw satellite pixels to interactive heat map</td></tr>
+  <tr><td>🔗 <b>Links</b></td><td><a href="#">Source Code</a> · <a href="#">Live Demo</a></td></tr>
+</table>
 </details>
 
 <br/>
 
-## 📈 `[ SYSTEM ACTIVITY ]`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mittalshivam226&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
-</div>
+<details>
+<summary>🌾 &nbsp;<b>MISSION 02 — FARMHITH</b></summary>
+<br/>
+<table>
+  <tr><td>🎯 <b>Objective</b></td><td>Multi-portal platform connecting stakeholders across the farming supply chain</td></tr>
+  <tr><td>⚡ <b>Stack</b></td><td><code>Next.js</code> <code>Turborepo</code> <code>Firebase Admin SDK</code> <code>Firestore</code> <code>JWT</code></td></tr>
+  <tr><td>🏗️ <b>Architecture</b></td><td>Turborepo monorepo → 5 role-based portals → 11 JWT-secured REST APIs → Firestore RBAC</td></tr>
+  <tr><td>🔥 <b>Challenge</b></td><td>Shared logic and RBAC across 5 distinct portals without permission leaks or code duplication</td></tr>
+  <tr><td>💡 <b>Solution</b></td><td>Centralized Firestore RBAC + Turborepo shared packages + consistent JWT API layer</td></tr>
+  <tr><td>🏆 <b>Result</b></td><td>Real multi-tenant system — not a demo. Most architecturally complex project I've shipped.</td></tr>
+  <tr><td>🔗 <b>Links</b></td><td><a href="#">Source Code</a> · <a href="#">Live Demo</a></td></tr>
+</table>
+</details>
 
 <br/>
 
-## 📡 `[ ENGINEERING LOG ]`
+<details>
+<summary>🛒 &nbsp;<b>MISSION 03 — REEDU</b></summary>
+<br/>
+<table>
+  <tr><td>🎯 <b>Objective</b></td><td>Full-stack marketplace platform</td></tr>
+  <tr><td>⚡ <b>Stack</b></td><td><code>Node.js</code> <code>MySQL</code></td></tr>
+  <tr><td>🏗️ <b>Architecture</b></td><td>Node.js REST backend → MySQL relational core → marketplace listing/transaction flows</td></tr>
+  <tr><td>🔥 <b>Challenge</b></td><td>Query degradation as marketplace joins and data volume grew</td></tr>
+  <tr><td>💡 <b>Solution</b></td><td>Iterated on SQL query structure and indexing strategy</td></tr>
+  <tr><td>🏆 <b>Result</b></td><td>Marketplace shipped end-to-end — from backend to database</td></tr>
+  <tr><td>🔗 <b>Links</b></td><td><a href="#">Source Code</a> · <a href="#">Live Demo</a></td></tr>
+</table>
+</details>
+
+---
+
+## `> tail -f /var/log/engineering.log`
 
 ```diff
-[BOOT]    INFO    Loaded core modules: DSA, OOP, DBMS, Computer Networks
-[09:14]   INFO    Started deep dive into distributed systems fundamentals
-+[10:02]   SUCCESS Shipped Firestore RBAC layer across 5 FarmHith portals
-[11:47]   WARN    XGBoost pipeline choking on raw GEE tile output
-[12:03]   DEBUG   Root cause: unbatched feature extraction on large geospatial tiles
-+[12:20]   SUCCESS Batched extraction — pipeline stable
-[14:30]   INFO    Placed Top 15 @ STPI Fintech Hackathon
-[15:05]   INFO    Placed 2nd @ Engineering Unplugged
--[16:12]   FAILED  First FMP idea (federated learning) — scope too large for timeline
-+[16:40]   INFO    Learned: scope FMP around feasibility, not ambition alone
+[BOOT]    INFO    Loaded: DSA · OOP · DBMS · Computer Networks
+[09:14]   INFO    Dive started: distributed systems fundamentals
++[10:02]   SUCCESS Shipped Firestore RBAC across 5 FarmHith portals — zero leaks
+[11:47]   WARN    XGBoost pipeline stalling on raw GEE tile output
+[12:03]   DEBUG   Root cause → unbatched feature extraction on large geospatial tiles
++[12:20]   SUCCESS Batched extraction applied — pipeline stable, throughput restored
+[14:30]   INFO    STPI Fintech Hackathon → Top 15 finish
+[15:05]   INFO    Engineering Unplugged → 2nd place
+-[16:12]   FAILED  FMP Idea (federated learning) — scope crushed the timeline
++[16:40]   INFO    Lesson logged: scope around feasibility, not ambition alone
+[17:00]   INFO    FMP re-scoped → evaluating GNN fraud / multi-agent / proctoring
 ```
 
-<br/>
+---
 
-## 🧭 `[ ENGINEERING PROTOCOL ]`
+## `> htop --protocol ENGINEERING`
 
-```text
-01. UNDERSTAND   — restate the problem before touching code
-02. CHALLENGE    — question assumptions baked into the request
-03. CONSTRAIN    — identify what's fixed vs. negotiable (time, scale, data)
-04. DESIGN       — sketch the architecture before the implementation
-05. IMPLEMENT    — build the smallest correct version first
-06. MEASURE      — verify with real data, not intuition
-07. OPTIMIZE     — only after it's correct, and only where it's measured to matter
-08. DOCUMENT     — leave the system understandable to the next reader (including future me)
+```
+PID  PROCESS              [████████████████████] PROFICIENCY
+001  C++ / DSA            [████████████████░░░░] 80%  — competitive edge
+002  System Design        [███████████████░░░░░] 75%  — always designing before coding
+003  Backend Engineering  [████████████████░░░░] 80%  — APIs, RBAC, auth flows
+004  Applied ML           [████████████░░░░░░░░] 60%  — geospatial pipelines, XGBoost
+005  Distributed Systems  [█████████░░░░░░░░░░░] 45%  — actively ramping
+006  AI / Multi-agent     [███████░░░░░░░░░░░░░] 35%  — FMP exploration in progress
+```
+<sub>Note: bars represent current learning focus and relative investment — not absolute mastery claims.</sub>
+
+---
+
+## `> ./lab_status.sh`
+
+<div align="center">
+
+| # | EXPERIMENT | DOMAIN | STATUS |
+|---|---|---|---|
+| 01 | Geospatial ML pipeline (Earth Engine → XGBoost) | ML · Geospatial | 🟢 `COMPLETED` |
+| 02 | Multi-portal RBAC (Firestore + Turborepo) | Backend · Arch | 🟢 `COMPLETED` |
+| 03 | SQL query optimization on marketplace | Databases | 🟢 `COMPLETED` |
+| 04 | Federated learning for FMP | ML · Distributed | 🔴 `FAILED → LEARNED` |
+| 05 | GNN-based fraud detection | ML · Graph | 🟡 `PLANNED` |
+| 06 | Multi-agent fact-checking system | AI · Multi-agent | 🟡 `PLANNED` |
+| 07 | Behavioral proctoring on self-collected data | ML · Systems | 🟡 `PLANNED` |
+
+</div>
+
+---
+
+## `> cat /proc/engineering_protocol`
+
+<div align="center">
+
+| STEP | OPERATION | DIRECTIVE |
+|------|-----------|-----------|
+| `01` | **UNDERSTAND** | Restate the problem before touching code |
+| `02` | **CHALLENGE** | Question assumptions baked into the request |
+| `03` | **CONSTRAIN** | Identify fixed vs. negotiable constraints |
+| `04` | **DESIGN** | Sketch architecture before writing a single line |
+| `05` | **IMPLEMENT** | Build the smallest correct version first |
+| `06` | **MEASURE** | Verify with real data, not intuition |
+| `07` | **OPTIMIZE** | Only when correct, only where measured |
+| `08` | **DOCUMENT** | Write for the next reader — often future me |
+
+</div>
+
+---
+
+## `> iostat --commits 31d`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mittalshivam226&theme=redical&hide_border=true&bg_color=0d1117&color=00FFCC&line=9C5CFF&point=FF00FF" width="100%" />
+</div>
+
+---
+
+## `> ./initiate_contact.sh`
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════╗
+║  Have an interesting problem?             ║
+║  Want to collaborate?                     ║
+║  Building something ambitious?            ║
+║                                           ║
+║         INITIATE CONNECTION →             ║
+╚═══════════════════════════════════════════╝
 ```
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mittalshivam226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mittal-2199982a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittalshivam226@gmail.com)
+
 <br/>
 
-## 🧪 `[ EXPERIMENT LAB ]`
-
-<div align="center">
-
-| EXPERIMENT | DOMAIN | STATUS |
-|:---|:---|:---|
-| Geospatial ML pipeline | ML / Geospatial | 🟢 `COMPLETED` |
-| Multi-portal RBAC via Firestore | Backend / Architecture | 🟢 `COMPLETED` |
-| SQL query optimization on joins | Databases | 🟢 `COMPLETED` |
-| Federated learning for FMP | ML / Distributed Systems | 🔴 `FAILED → LEARNED` |
-| GNN-based fraud detection | ML / Graph Systems | 🟡 `PLANNED` |
-| Multi-agent fact-checking | AI / Multi-agent | 🟡 `PLANNED` |
-| Behavioral proctoring | ML / Applied Systems | 🟡 `PLANNED` |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=3000&color=9C5CFF&center=true&vCenter=true&width=500&lines=%24+shutdown+--graceful;ERROR%3A+cannot+stop+—+developer+still+building;Process+%5BSHIVAM.EXE%5D+cannot+be+terminated." alt="Shutdown SVG" />
 
 </div>
 
-<br/>
-
-## 📚 `[ KNOWLEDGE BASE ]`
-
-<div align="center">
-
-![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF00FF?style=for-the-badge&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-00FFCC?style=for-the-badge&logoColor=black)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-FFE600?style=for-the-badge&logoColor=black)
-![Databases](https://img.shields.io/badge/Databases-FF00FF?style=for-the-badge&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-00FFCC?style=for-the-badge&logoColor=black)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FFE600?style=for-the-badge&logoColor=black)
-![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-FF00FF?style=for-the-badge&logoColor=white)
-![AI / ML](https://img.shields.io/badge/AI_/_ML-00FFCC?style=for-the-badge&logoColor=black)
-
-<br/>
-
-**Certifications:** MongoDB Associate Developer · Cisco Networking Basics · NPTEL (Machine Learning, DSA)
-
-</div>
-
-<br/>
-
-## 📡 `[ TRANSMISSION CHANNEL ]`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-Have an interesting problem? Want to collaborate? Building something ambitious?
-
-**INITIATE CONNECTION →**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mittalshivam226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-mittal-2199982a3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittalshivam226@gmail.com)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=FF00FF;00FFCC&center=true&vCenter=true&width=400&lines=>+SYSTEM_SHUTDOWN+UNAVAILABLE;>+DEVELOPER_IS_STILL_BUILDING..." width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:9C5CFF,100:00FFCC&height=120&section=footer" width="100%"/>
